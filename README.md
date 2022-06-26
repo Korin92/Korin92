@@ -9,8 +9,9 @@ Hey!, soy Carmen
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+developer;ReactJS+lover;Siempre%20aprendiendo%20nuevas%20cosas&center=true&width=380&height=45"></a>
 </p>
-
-<img align="left" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" alt="gif of developer programming" width="240" />
+<p align="center">
+<img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" alt="gif of developer programming" width="240" />
+</p>
 <hr>
 
 ```
