@@ -34,7 +34,7 @@ Korin92@github
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
    <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white"></a>
 
-### 🧰 Frameworks and Libraries
+### 🧰 Frameworks y Librerías
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
@@ -44,7 +44,7 @@ Korin92@github
 
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Bases de datos and Cloud Hosting
 
 <p>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>
