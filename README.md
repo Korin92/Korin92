@@ -2,7 +2,7 @@
 Hey!, soy Carmen
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/Korin92" alt="Profile views" align='right'/> <a href="https://github.com/Korin92/Korin92/"> </a> 
+ <img src="https://komarev.com/ghpvc/?username=Korin92" alt="Profile views" align='right'/> <a href="https://github.com/Korin92/Korin92/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -14,14 +14,11 @@ Hey!, soy Carmen
 </p>
 <hr>
 
-```
 Korin92@github
--------------------------
-💻 Soy Frontend Developer
-📚 Técnico Superior en Desarrollo de aplicaciones web
-🌱 Aprendiendo siempre lo último en el campo del desarrollo web
-🌟 Lenguajes principales: Javascript
-```
+💻 Soy Frontend Developer 📚 Técnico Superior en Desarrollo de aplicaciones web 🌱 Aprendiendo siempre lo último en el campo del desarrollo web 🌟 Lenguajes principales: Javascript
+javascript
+
+
 <hr>
 
 
@@ -39,6 +36,7 @@ Korin92@github
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></a>
     <a href="#"><img alt="styled-component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
@@ -74,15 +72,14 @@ Korin92@github
 
 |                                                                     Korin92's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Korin92's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Korin92&theme=react-dark&hide_border=true&area=true) |
+| ![Korin92's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Korin92&theme=react-dark&hide_border=true&area=true) |
 | ![Korin92's github stats](https://github-readme-stats.vercel.app/api?username=Korin92&show_icons=true&theme=algolia)              | 
-| ![Korin92's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Korin92&theme=algolia)                    | 
+| ![Korin92's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Korin92&theme=algolia)   
     
 
 |                                                                                                      Korin92's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Korin92&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korin92&langs_count=8&theme=algolia&layout=compact) |
-
 
 
 
