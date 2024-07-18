@@ -16,7 +16,6 @@ Hey!, soy Carmen
 
 Korin92@github
 💻 Soy Frontend Developer 📚 Técnico Superior en Desarrollo de aplicaciones web 🌱 Aprendiendo siempre lo último en el campo del desarrollo web 🌟 Lenguajes principales: Javascript
-javascript
 
 
 <hr>
