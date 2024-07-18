@@ -102,4 +102,12 @@ Puedes contactar conmigo a través de  <a href="mailto:carmene8992@gmail.com">mi
   <td width="50%" valign="top">
 
 
-“
+“Cualquier estupido puede escribir un código que los ordenadores puedan entender. Son los buenos programadores los que escriben códigos que los humanos pueden entender”
+– Martin Fowler
+
+  </td>
+  </tr>
+</table>
+
+------
+Creditos: [Korin92](https://github.com/Korin92)
