@@ -30,7 +30,9 @@ javascript
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="SCSS" src="https://img.shields.io/badge/SCSS%20-%23CC6699.svg?logo=sass&logoColor=white"></a>
+</p>
 
 ### 🧰 Frameworks y Librerías
 
@@ -40,16 +42,18 @@ javascript
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></a>
     <a href="#"><img alt="styled-component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
-
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
-### 🗄️ Bases de datos and Cloud Hosting
+### 🗄️ Bases de datos y Cloud Hosting
 
 <p>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
 
 ### 💻 Herramientas
@@ -58,6 +62,9 @@ javascript
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"></a>
+    <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
 </p>
 
 ### 📲 Redes sociales
@@ -96,12 +103,4 @@ Puedes contactar conmigo a través de  <a href="mailto:carmene8992@gmail.com">mi
   <td width="50%" valign="top">
 
 
-“Cualquier estupido puede escribir un código que los ordenadores puedan entender. Son los buenos programadores los que escriben códigos que los humanos pueden entender”
-– Martin Fowler
-
-  </td>
-  </tr>
-</table>
-
-------
-Creditos: [Korin92](https://github.com/Korin92)
+“
